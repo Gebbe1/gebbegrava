@@ -1,0 +1,13 @@
+h1 {
+  text-align: center; color: tomato
+}
+
+.navn {
+  font-weight: bold;
+  font-size: 50px;
+  font-style: italic;
+  color: black
+}
+h3 {
+  color: tomato
+}
